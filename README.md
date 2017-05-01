@@ -9,8 +9,14 @@ We will be looking not only at correctness, but also at how easy the code would 
 Provide the function, any test inputs you use to test it, and the corresponding test outputs.
 
 ## Changes
-* 해당 함수의 인자로 JSON string 이외에 Array가 갖는 object들의 interface name이 되는 인자도 받도록 구성
+* 해당 함수의 인자로 JSON string 이외에 array가 갖는 object들의 interface name이 되는 인자도 받도록 구성
 
 ## Test tool
 * jest
 
+``` 
+// You can check the result using this test
+$ yarn test 
+or
+$ npm test
+```
