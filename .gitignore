@@ -1,0 +1,10 @@
+# Created by .ignore support plugin (hsz.mobi)
+
+# IntelliJ project files
+.idea
+
+### macOS template
+.DS_Store
+
+node_modules/
+dist/
